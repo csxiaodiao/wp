@@ -1,0 +1,4 @@
+/ansible
+/.versions.conf
+/website_deploy
+/website/wp-config.php
