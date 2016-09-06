@@ -2,3 +2,4 @@
 /.versions.conf
 /website_deploy
 /website/wp-config.php
+/website/wp-config-sample.php
